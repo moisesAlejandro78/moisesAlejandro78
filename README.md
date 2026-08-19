@@ -2,7 +2,7 @@
 
 <img src="./assets/BANNER_GITHUB8.png" align="left" width="100%">
 
-<h1>Hey there! I'm Aditya Kanoi</h1>
+<h1>Hola soy Moises Alejandro</h1>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
 
