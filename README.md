@@ -1,5 +1,5 @@
 
-<img src="assest/fuego.png" align="left" width="100%">
+<img src="assets/BANNER2.png" align="left" width="100%">
 
 <h1 align="center">Hola, soy Moisés Alejandro </h1>
 
