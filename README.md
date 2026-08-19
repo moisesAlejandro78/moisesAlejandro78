@@ -7,8 +7,7 @@
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos\
 🎓 &nbsp;Actualmente me estoy interesando por el tema de Automatas Celulares.\
 🌱 &nbsp;Me encanta la personalizacion, ya que es tu sello personal.\
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Quiero abrir mi canal de youtube y compartir mi conocimiento como pasatiempo.\
+✍️ &nbsp;Quiero abrir mi canal de youtube y compartir mi conocimiento como pasatiempo.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
