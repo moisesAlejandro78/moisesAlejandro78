@@ -4,6 +4,7 @@
 <h1 align="center">Hola soy Moises Alejandro</h1>
 
 ### 👨🏻‍💻 &nbsp;Mas sobre mi
+Hola soy Moises, estudiante de la carrera de ing de sistemas en la Universidad del Valle (Univalle).
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos\
 🎓 &nbsp;Actualmente me estoy interesando por el tema de Automatas Celulares.\
 🌱 &nbsp;Me encanta la personalizacion, ya que es tu sello personal.\
