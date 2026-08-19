@@ -1,6 +1,6 @@
 ![Aditya Kanoi Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)
 
-<img src="./assets/BANNER_GITHUB (7).png" align="left" width="100%">
+<img src="./assets/BANNER_GITHUB8.png" align="left" width="100%">
 
 <h1>Hey there! I'm Aditya Kanoi</h1>
 
