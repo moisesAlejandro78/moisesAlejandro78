@@ -1,15 +1,26 @@
 
 <img src="assest/fuego.png" align="left" width="100%">
 
-<h1 align="center">Hola soy Moises Alejandro</h1>
+<h1 align="center">Hola, soy Moisés Alejandro </h1>
 
-### 👨🏻‍💻 &nbsp;Mas sobre mi
-Hola soy Moises, estudiante de la carrera de ing de sistemas en la Universidad del Valle (Univalle).
-💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos\
-🎓 &nbsp;Actualmente me estoy interesando por el tema de Automatas Celulares.\
-🌱 &nbsp;Me encanta la personalizacion, ya que es tu sello personal.\
-✍️ &nbsp;Quiero abrir mi canal de youtube y compartir mi conocimiento como pasatiempo.
+<p align="center">
+  🇧🇴 Bolivia &nbsp;•&nbsp; 💻 Software Developer &nbsp;•&nbsp; 🎮 Game Development
+</p>
+<br>
+<h3>👨🏻‍💻 &nbsp;Más sobre mí</h3>
 
+Hola, soy Moisés, estudiante de Ingeniería de Sistemas Informáticos en la Universidad del Valle (Univalle), 🇧🇴 Bolivia.
+<br><br>
+
+💡 &nbsp;Me gusta explorar nuevas tecnologías, crear soluciones de software y experimentar con ideas que puedan convertirse en proyectos.
+<br>
+🎓 &nbsp;Actualmente estoy explorando el mundo de los Autómatas Celulares.
+<br>
+🌱 &nbsp;Me encanta la personalización y el diseño, porque creo que cada proyecto debería tener su propio sello.
+<br>
+🎮 &nbsp;También me interesa el desarrollo de videojuegos y la creación de experiencias interactivas.
+<br>
+✍️ &nbsp;Uno de mis objetivos es abrir un canal de YouTube para compartir lo que voy aprendiendo.
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
