@@ -21,7 +21,7 @@ Hola, soy Moisés, estudiante de Ingeniería de Sistemas Informáticos en la Uni
 🎮 &nbsp;También me interesa el desarrollo de videojuegos y la creación de experiencias interactivas.
 <br>
 ✍️ &nbsp;Uno de mis objetivos es abrir un canal de YouTube para compartir lo que voy aprendiendo.
-<img alt="" src="" align="right"/>
+<img alt="" src="assets/vi.gif" align="right" height=250/>
 
 ### 🛠 &nbsp;Tech Stack
 
