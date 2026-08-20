@@ -65,20 +65,12 @@ Hola, soy Moisés, estudiante de Ingeniería de Sistemas Informáticos en la Uni
 <h3>⚙️Analisis de GitHub</h3>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=moisesAlejandro78&layout=compact&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=moisesAlejandro78&layout=compact&langs_count=4&theme=midnight-purple)
-
+<h3>Mis proyectos</h3>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=moisesAlejandro78&repo=mapbox-web&show_owner=true&theme=midnight-purple)](https://github.com/moisesAlejandro78/mapbox-web)
+<br>
 ### 🎖 &nbsp;My Badges 
 
 [![An image of @adityakanoi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityakanoi)](https://holopin.io/@adityakanoi)
-
-
-### 📜 &nbsp;My Articles
-
-[![Medium](https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adityakanoi123)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://thedefenceengineer.quora.com/)
-
-### 💰 &nbsp;Support My Work
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adityakanoi) 
-
 
 ### 🤝🏻 &nbsp;Connect with Me
 
