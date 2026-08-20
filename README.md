@@ -66,7 +66,10 @@ Hola, soy Moisés, estudiante de Ingeniería de Sistemas Informáticos en la Uni
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=moisesAlejandro78&layout=compact&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=moisesAlejandro78&layout=compact&langs_count=4&theme=midnight-purple)
 <h3>Mis proyectos</h3>
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=moisesAlejandro78&repo=mapbox-web&show_owner=true&theme=midnight-purple)](https://github.com/moisesAlejandro78/mapbox-web)
+<a href="https://github.com/moisesAlejandro78/mapbox-web">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=moisesAlejandro78&repo=mapbox-web&show_owner=true&theme=midnight-purple" width="400">
+</a>
+
 <br>
 ### 🎖 &nbsp;My Badges 
 
