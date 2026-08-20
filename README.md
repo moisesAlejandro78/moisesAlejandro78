@@ -71,8 +71,7 @@ Hola, soy Moisés, estudiante de Ingeniería de Sistemas Informáticos en la Uni
 </a>
 
 <br>
-### 🎖 &nbsp;My Badges 
-
+<h3>Mis Insignias</h3>
 [![An image of @adityakanoi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityakanoi)](https://holopin.io/@adityakanoi)
 
 
